@@ -7,4 +7,4 @@
 * `results_4k_search.txt` lists the total time taken, CPU configuration, and solutions
 
 ### Results
-The computation took 28 hours on a 56 `Intel Xeon E5-4650` cores running at `2800 MHz`. 
+The computation took 28 hours on 56 `Intel Xeon E5-4650` cores running at `2800 MHz`. 
