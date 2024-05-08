@@ -1,0 +1,38 @@
+Number of CPU cores: 32
+CPU information:
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3584 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+  model: Intel(R) Xeon(R) CPU E5-2697A v4 @ 2.60GHz, speed: 3600 MHz
+Number of CPU cores: 32
+Elapsed time: 46.0 hours, 48.0 minutes, and 28.37745914098923 seconds
+Results:
+Any[(6, 3, 5, 11), (22, 3, 21, 445), (38, 3, 37, 2287)]
