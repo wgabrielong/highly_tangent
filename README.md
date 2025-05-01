@@ -1,7 +1,7 @@
 # Quadratic Counts of Highly Tangent Lines to Hypersurfaces
-<i>Stephen McKean, Dept. of Mathematics, Harvard University (smckean "at" math.harvard.edu)</i><br>
-<i>Giosuè Muratore, Faculdade de Ciências, Universidade de Lisboa (muratore.g "at" gmail.com)</i><br>
-<i>Wern Juin Gabriel Ong, Bowdoin College (gong "at" bowdoin.edu)</i><br>
+<i>Stephen McKean, Dept. of Mathematics, Brigham Young University (mckean "at" math.byu.edu)</i><br>
+<i>Giosuè Muratore, CMAFcIO (University of Lisbon), and DEISI (Lusofona University) (muratore.g.e "at" gmail.com)</i><br>
+<i>Wern Juin Gabriel Ong, Department of Mathematics, Universitat Bonn (wgabrielong "at" uni-bonn.de)</i><br>
 
 This GitHub repository contains code and data associated with the forthcoming paper "Quadratic Counts of Highly Tangent Lines to Hypersurfaces" by Stephen McKean, Giosuè Muratore, and Wern Juin Gabriel Ong. 
 ## Navigating the Repository
